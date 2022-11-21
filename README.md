@@ -1,19 +1,29 @@
-### Hi there 👋
+## Hi there 👋
 # I'm Astan Pataraya
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+developer)](https://git.io/typing-svg)
 
-#### - 🌱 I’m currently learning ...
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-<!-- -->
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+## Technology stack
+
+<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+
+**Back-end**
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
+![DCRF](https://img.shields.io/badge/-DCRF-46a2f1?style=flat-square&logo=Django)
 ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-%234B32C3?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
+![ORMAR](https://img.shields.io/badge/-ORMAR-DD0031?style=flat-square&logo=ORMAR)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
+![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+
+**Databases**
+
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 
 **Front-end**
 
@@ -28,27 +38,24 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
-![Kubernetes]()
 
-**Databases**
-
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 **Learning**
+
+![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
 ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
 
-**States**
-![iAmKoldyn Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmKoldyn&layout=compact&count_private=true&theme=gruvbox)
+## 𝗦𝘁𝗮𝘁𝘀
 
-#### - 📫 How to reach me: ...
-![pataraya951@gmail.com](https://img.shields.io/badge/pataraya951@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![@cohony](https://img.shields.io/badge/@cohony-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![https://gitlab.com/pelmenin](https://img.shields.io/badge/pelmenin-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=DJWOMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
-**lable/lable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iAmKoldyn/iAmKoldyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
