@@ -56,7 +56,8 @@
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
     </a>
 </p>
-## 𝗦𝘁𝗮𝘁𝘀
+
+### 𝗦𝘁𝗮𝘁𝘀
 
 ![iAmKoldyn github stats](https://github-readme-stats.vercel.app/api?username=iAmKoldyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![iAmKoldyn Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmKoldyn&layout=compact&count_private=true&theme=gruvbox)
@@ -65,6 +66,13 @@
 ![pataraya951@gmail.com](https://img.shields.io/badge/pataraya951@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![@cohony](https://img.shields.io/badge/@cohony-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![https://gitlab.com/pelmenin](https://img.shields.io/badge/pelmenin-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 <!-- <p align="center">
     <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
