@@ -61,17 +61,6 @@
 ![@cohony](https://img.shields.io/badge/@cohony-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![https://gitlab.com/pelmenin](https://img.shields.io/badge/pelmenin-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<!-- <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
-</p> -->
-
-<p align="center">
-     <a href="https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ">
-       <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCpCzS_uKS1zzOAUjuuBNXDQ">
-    </a>
-</p>
-
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
