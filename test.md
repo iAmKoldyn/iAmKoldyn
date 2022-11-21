@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Dima Sheptytskyi
+# I'm Astan Pataraya
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+developer)](https://git.io/typing-svg)
 
 #### - 🌱 I’m currently learning ...
@@ -11,15 +11,18 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Exercism](https://img.shields.io/badge/Exercism-B1361E?style=for-the-badge&logo=Exercism&logoColor=white)](https://exercism.org/profiles/iAmKoldyn)
 
 
 #### - 📫 How to reach me: ...
-![channektoshka@gmail.com](https://img.shields.io/badge/channektoshka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![@cyberbuilder288](https://img.shields.io/badge/@cyberbuilder288-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![https://gitlab.com/phisher13](https://img.shields.io/badge/phisher13-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![astan-pataraya@mail.ru](https://img.shields.io/badge/astan-pataraya@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![@Cohony](https://img.shields.io/badge/@Cohony-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![https://gitlab.com/pelmenin](https://img.shields.io/badge/pelmenin-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <!--
-**phisher13/phisher13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lable/lable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
