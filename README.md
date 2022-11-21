@@ -15,7 +15,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 #### - 📫 How to reach me: ...
-![pataraya951@gmail.com](https://img.shields.io/badge/channektoshka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![pataraya951@gmail.com](https://img.shields.io/badge/pataraya951@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![@cohony](https://img.shields.io/badge/@cohony-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![https://gitlab.com/pelmenin](https://img.shields.io/badge/pelmenin-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
