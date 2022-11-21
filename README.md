@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Dima Sheptytskyi
+# I'm Astan Pataraya
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+developer)](https://git.io/typing-svg)
 
 #### - 🌱 I’m currently learning ...
@@ -14,12 +14,12 @@
 
 
 #### - 📫 How to reach me: ...
-![channektoshka@gmail.com](https://img.shields.io/badge/channektoshka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![@cyberbuilder288](https://img.shields.io/badge/@cyberbuilder288-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![https://gitlab.com/phisher13](https://img.shields.io/badge/phisher13-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![pataraya951@gmail.com](https://img.shields.io/badge/channektoshka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![@cohony](https://img.shields.io/badge/@cohony-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![https://gitlab.com/pelmenin](https://img.shields.io/badge/pelmenin-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <!--
-**phisher13/phisher13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lable/lable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
