@@ -5,8 +5,8 @@
 
 ### Hi there 👋
 # I'm Astan Pataraya
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+developer+and+Beer+enjoyer.)](https://git.io/typing-svg)
-
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+developer+and+Beer+enjoyer.)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Becend+developer+%26+Beer+enjoyer)](https://git.io/typing-svg)
 ## Technology stack
 
 **Back-end**
