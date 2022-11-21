@@ -40,7 +40,7 @@
 ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
 
 **States**
-![iAmKoldyn Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmKoldynMS&layout=compact&count_private=true&theme=gruvbox)
+![iAmKoldyn Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmKoldyn&layout=compact&count_private=true&theme=gruvbox)
 
 #### - 📫 How to reach me: ...
 ![pataraya951@gmail.com](https://img.shields.io/badge/pataraya951@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
