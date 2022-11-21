@@ -49,8 +49,8 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=DJWOMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&layout=compact&count_private=true&theme=gruvbox)
+![iAmKoldyn github stats](https://github-readme-stats.vercel.app/api?username=iAmKoldyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![iAmKoldyn Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
 **iAmKoldyn/iAmKoldyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
