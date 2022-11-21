@@ -16,7 +16,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
 ![ORMAR](https://img.shields.io/badge/-ORMAR-DD0031?style=flat-square&logo=ORMAR)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
-![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 
 **Databases**
 
@@ -52,6 +51,12 @@
 
 ![iAmKoldyn github stats](https://github-readme-stats.vercel.app/api?username=iAmKoldyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![iAmKoldyn Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmKoldyn&layout=compact&count_private=true&theme=gruvbox)
+
+#### - 📫 How to reach me: ...
+![pataraya951@gmail.com](https://img.shields.io/badge/pataraya951@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![@cohony](https://img.shields.io/badge/@cohony-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![https://gitlab.com/pelmenin](https://img.shields.io/badge/pelmenin-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
 <!--
 **iAmKoldyn/iAmKoldyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
