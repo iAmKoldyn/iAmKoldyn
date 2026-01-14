@@ -4,7 +4,6 @@
 </p>
 
 ### Hi there 👋
-# I'm Astan Pataraya
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+developer+%26+Beer+enjoyer)](https://git.io/typing-svg)
 ## Technology stack
 
@@ -61,8 +60,6 @@
 <!-- ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg) -->
 
 #### - 📫 How to reach me: ...
-![pataraya951@gmail.com](https://img.shields.io/badge/pataraya951@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![@cohony](https://img.shields.io/badge/@cohony-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![https://gitlab.com/pelmenin](https://img.shields.io/badge/pelmenin-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <!-- <p align="center">
